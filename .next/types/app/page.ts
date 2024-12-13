@@ -1,4 +1,4 @@
-// File: /Users/s2240077/Desktop/1年/後期/後期授業資料/クリエイティブワーク/便利サイト/web/next-app/src/app/page.tsx
+// File: /Users/s2240077/Desktop/stady-x-steady/next-app/src/app/page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
